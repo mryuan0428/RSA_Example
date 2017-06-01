@@ -18,7 +18,3 @@ mrTest.h：Miller-Rabin素性检测的实现
 power.h：模幂运算的实现 a^b % m
 
 random.h：随机整数的生成库
-
-
-运行结果说明：
-
